@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: SelectingIcon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.45881939, y: 1.20407104, z: 7.66268826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3918cfa2cf383c4c8021ad543ae5837, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uun_texture: {fileID: 2800000, guid: 846c41004a340774e9f415459962b457, type: 3}
+  hai_texture: {fileID: 2800000, guid: a28ab4e176c51a94a8dc87cca61df646, type: 3}
+  moya_negi_texture: {fileID: 2800000, guid: cc2c8c9f413b22d4191e40c08c922013, type: 3}
+  moya_yuzu_texture: {fileID: 2800000, guid: 5c799769e33cd7f4d870b2c1b2e248ec, type: 3}
+  moya_oke_texture: {fileID: 2800000, guid: ce1090b18dd081741a15be35dc5dd891, type: 3}
+  moya_kara_texture: {fileID: 2800000, guid: 7fe0551304c449343b2ce5a05b84c2cb, type: 3}
+  position: {x: 0, y: 0, z: 0}
+  is_flip: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

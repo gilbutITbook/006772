@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: KabusanSpeech
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e28aec98a819f44580c77c18fcca14a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  font_textures:
+  - {fileID: 2800000, guid: 3673755a78ec40c428983f4cbbf8dac3, type: 3}
+  - {fileID: 2800000, guid: 841bcb9061d100b458965bb67c32dd40, type: 3}
+  - {fileID: 2800000, guid: 843594b7b3d80e74bab875226a810901, type: 3}
+  - {fileID: 2800000, guid: 8fe09d7007a411b45b3cbb2140150ddc, type: 3}
+  - {fileID: 2800000, guid: ba22fc0405ea434458eac9fde296d095, type: 3}
+  - {fileID: 2800000, guid: c4ed2e77c7496a242b6d5f2d8b0839e2, type: 3}
+  - {fileID: 2800000, guid: 6c2a74ab593b8a945a25da410afd167a, type: 3}
+  - {fileID: 2800000, guid: d1587788235d9e04da9c0aa54d68caa3, type: 3}
+  - {fileID: 2800000, guid: e310417c0f2e66646a79b6673410ee47, type: 3}
+  - {fileID: 2800000, guid: 272b622f41b4425448b76978952373de, type: 3}
+  - {fileID: 2800000, guid: f8c21c15ed74786439267eff881246d6, type: 3}
+  - {fileID: 2800000, guid: a3014a953f67e5c4d846ac1a43b4441a, type: 3}
+  - {fileID: 2800000, guid: 928541b3e3fad0144b96ddb74e8757c4, type: 3}
+  balloon_texture: {fileID: 2800000, guid: 79a2eb7d357b8944d9a66867378768c1, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

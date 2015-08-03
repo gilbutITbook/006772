@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 6efc587ecc996a341922ddafec5d196e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: atari
+    100002: camera1
+    100004: daikon
+    100006: field_00
+    100008: ha_01
+    100010: hakusai1
+    100012: hakusai2
+    100014: hill
+    100016: hill_kusa03
+    100018: hill_kusa04
+    100020: ishidatami
+    100022: kabu1
+    100024: kinoko_00
+    100026: kinoko_01
+    100028: konnyaku
+    100030: nira_1
+    100032: sea
+    100034: shiitake_0
+    100036: shiitake_1
+    100038: shiitake_2
+    100040: shiitake_3
+    100042: tarai1
+    100044: //RootNode
+    100046: toufu_field
+    100048: Toufu_field_obj:shiitake
+    100050: yashiro
+    100052: yashiro_ha
+    100054: atari1
+    100056: daikon1
+    100058: ishidatami1
+    100060: konnyaku1
+    100062: kusa
+    100064: nami_00
+    100066: nami_01
+    100068: sea1
+    400000: atari
+    400002: camera1
+    400004: daikon
+    400006: field_00
+    400008: ha_01
+    400010: hakusai1
+    400012: hakusai2
+    400014: hill
+    400016: hill_kusa03
+    400018: hill_kusa04
+    400020: ishidatami
+    400022: kabu1
+    400024: kinoko_00
+    400026: kinoko_01
+    400028: konnyaku
+    400030: nira_1
+    400032: sea
+    400034: shiitake_0
+    400036: shiitake_1
+    400038: shiitake_2
+    400040: shiitake_3
+    400042: tarai1
+    400044: //RootNode
+    400046: toufu_field
+    400048: Toufu_field_obj:shiitake
+    400050: yashiro
+    400052: yashiro_ha
+    400054: atari1
+    400056: daikon1
+    400058: ishidatami1
+    400060: konnyaku1
+    400062: kusa
+    400064: nami_00
+    400066: nami_01
+    400068: sea1
+    2300000: atari
+    2300002: daikon
+    2300004: field_00
+    2300006: ha_01
+    2300008: hakusai1
+    2300010: hill
+    2300012: hill_kusa03
+    2300014: hill_kusa04
+    2300016: ishidatami
+    2300018: kabu1
+    2300020: kinoko_00
+    2300022: kinoko_01
+    2300024: konnyaku
+    2300026: nira_1
+    2300028: sea
+    2300030: shiitake_0
+    2300032: shiitake_1
+    2300034: shiitake_2
+    2300036: shiitake_3
+    2300038: tarai1
+    2300040: yashiro
+    2300042: yashiro_ha
+    2300044: atari1
+    2300046: daikon1
+    2300048: ishidatami1
+    2300050: konnyaku1
+    2300052: kusa
+    2300054: nami_00
+    2300056: nami_01
+    2300058: sea1
+    3300000: atari
+    3300002: daikon
+    3300004: field_00
+    3300006: ha_01
+    3300008: hakusai1
+    3300010: hill
+    3300012: hill_kusa03
+    3300014: hill_kusa04
+    3300016: ishidatami
+    3300018: kabu1
+    3300020: kinoko_00
+    3300022: kinoko_01
+    3300024: konnyaku
+    3300026: nira_1
+    3300028: sea
+    3300030: shiitake_0
+    3300032: shiitake_1
+    3300034: shiitake_2
+    3300036: shiitake_3
+    3300038: tarai1
+    3300040: yashiro
+    3300042: yashiro_ha
+    3300044: atari1
+    3300046: daikon1
+    3300048: ishidatami1
+    3300050: konnyaku1
+    3300052: kusa
+    3300054: nami_00
+    3300056: nami_01
+    3300058: sea1
+    4300000: atari
+    4300002: sea
+    4300004: field_00
+    4300006: hill_kusa04
+    4300008: hill
+    4300010: hill_kusa03
+    4300012: konnyaku
+    4300014: daikon
+    4300016: yashiro_ha
+    4300018: ha_01
+    4300020: ishidatami
+    4300022: kinoko_01
+    4300024: kinoko_00
+    4300026: yashiro
+    4300028: kabu1
+    4300030: nira_1
+    4300032: hakusai1
+    4300034: tarai1
+    4300036: shiitake_3
+    4300038: shiitake_2
+    4300040: shiitake_0
+    4300042: shiitake_1
+    4300044: sea1
+    4300046: kusa
+    4300048: nami_01
+    4300050: nami_00
+    4300052: ishidatami1
+    4300054: konnyaku1
+    4300056: daikon1
+    4300058: atari1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: atari
+        weight: 1
+      - path: atari1
+        weight: 1
+      - path: toufu_field
+        weight: 1
+      - path: toufu_field/daikon
+        weight: 1
+      - path: toufu_field/daikon1
+        weight: 1
+      - path: toufu_field/field_00
+        weight: 1
+      - path: toufu_field/ha_01
+        weight: 1
+      - path: toufu_field/hakusai2
+        weight: 1
+      - path: toufu_field/hakusai2/hakusai1
+        weight: 1
+      - path: toufu_field/hakusai2/tarai1
+        weight: 1
+      - path: toufu_field/hill
+        weight: 1
+      - path: toufu_field/hill_kusa03
+        weight: 1
+      - path: toufu_field/hill_kusa04
+        weight: 1
+      - path: toufu_field/ishidatami
+        weight: 1
+      - path: toufu_field/ishidatami1
+        weight: 1
+      - path: toufu_field/kabu1
+        weight: 1
+      - path: toufu_field/kinoko_00
+        weight: 1
+      - path: toufu_field/kinoko_01
+        weight: 1
+      - path: toufu_field/konnyaku
+        weight: 1
+      - path: toufu_field/konnyaku1
+        weight: 1
+      - path: toufu_field/kusa
+        weight: 1
+      - path: toufu_field/nami_00
+        weight: 1
+      - path: toufu_field/nami_01
+        weight: 1
+      - path: toufu_field/nira_1
+        weight: 1
+      - path: toufu_field/sea1
+        weight: 1
+      - path: toufu_field/Toufu_field_obj:shiitake
+        weight: 1
+      - path: toufu_field/Toufu_field_obj:shiitake/shiitake_0
+        weight: 1
+      - path: toufu_field/Toufu_field_obj:shiitake/shiitake_1
+        weight: 1
+      - path: toufu_field/Toufu_field_obj:shiitake/shiitake_2
+        weight: 1
+      - path: toufu_field/Toufu_field_obj:shiitake/shiitake_3
+        weight: 1
+      - path: toufu_field/yashiro
+        weight: 1
+      - path: toufu_field/yashiro_ha
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,33 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4144]
+    Renderer: NVIDIA GeForce 210 
+    Vendor:   NVIDIA
+    VRAM:     972 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.098 seconds
+desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\works\online_kr_unity5.1\online_kr\05\TicTacToe\bin\TicTacToe_Data\Managed\System.dll (this message is harmless)
+ArgumentNullException: Argument cannot be null.
+Parameter name: hostNameOrAddress
+  at System.Net.Dns.GetHostAddresses (System.String hostNameOrAddress) [0x00000] in <filename unknown>:0 
+  at Sequence.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

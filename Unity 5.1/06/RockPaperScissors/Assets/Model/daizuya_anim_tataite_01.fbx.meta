@@ -1,0 +1,2510 @@
+fileFormatVersion: 2
+guid: b5e4bd5cbb705be4bb32ff6d943a2cd8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: body
+    100006: buki_pos_null
+    100008: clav_L
+    100010: clav_R
+    100012: //RootNode
+    100014: elbow_L
+    100016: elbow_R
+    100018: eyeline_batsu
+    100020: eyeline_guruguru
+    100022: face
+    100024: face_01
+    100026: face_02
+    100028: face_03
+    100030: face_non_eye
+    100032: face_non_eye1
+    100034: finger_L
+    100036: finger_R
+    100038: hair_back
+    100040: hair_front
+    100042: hair_L_01
+    100044: hair_L_02
+    100046: hair_L_03
+    100048: hair_L_04
+    100050: hair_R_01
+    100052: hair_R_02
+    100054: hair_R_03
+    100056: hair_R_04
+    100058: hand_L
+    100060: hand_l
+    100062: hand_R
+    100064: hand_r
+    100066: happi
+    100068: head
+    100070: hip_L
+    100072: hip_R
+    100074: kanban_choki
+    100076: kanban_gu
+    100078: kanbann_pa
+    100080: knee_L
+    100082: knee_R
+    100084: neck
+    100086: obi
+    100088: obj_root
+    100090: old4:game_cam
+    100092: ribon_l_ball
+    100094: ribon_l_base
+    100096: ribon_l_siro_b
+    100098: ribon_l_siro_f
+    100100: ribon_r_ball
+    100102: ribon_r_base
+    100104: ribon_r_siro_b
+    100106: ribon_r_siro_f
+    100108: sholder_L
+    100110: sholder_R
+    100112: siro
+    100114: skirt
+    100116: skl_root
+    100118: spine01
+    100120: spine02
+    100122: toe_L
+    100124: toe_R
+    100126: wrist_L
+    100128: wrist_R
+    100130: yokokami_l
+    100132: yokokami_r
+    400000: ankle_L
+    400002: ankle_R
+    400004: body
+    400006: buki_pos_null
+    400008: clav_L
+    400010: clav_R
+    400012: //RootNode
+    400014: elbow_L
+    400016: elbow_R
+    400018: eyeline_batsu
+    400020: eyeline_guruguru
+    400022: face
+    400024: face_01
+    400026: face_02
+    400028: face_03
+    400030: face_non_eye
+    400032: face_non_eye1
+    400034: finger_L
+    400036: finger_R
+    400038: hair_back
+    400040: hair_front
+    400042: hair_L_01
+    400044: hair_L_02
+    400046: hair_L_03
+    400048: hair_L_04
+    400050: hair_R_01
+    400052: hair_R_02
+    400054: hair_R_03
+    400056: hair_R_04
+    400058: hand_L
+    400060: hand_l
+    400062: hand_R
+    400064: hand_r
+    400066: happi
+    400068: head
+    400070: hip_L
+    400072: hip_R
+    400074: kanban_choki
+    400076: kanban_gu
+    400078: kanbann_pa
+    400080: knee_L
+    400082: knee_R
+    400084: neck
+    400086: obi
+    400088: obj_root
+    400090: old4:game_cam
+    400092: ribon_l_ball
+    400094: ribon_l_base
+    400096: ribon_l_siro_b
+    400098: ribon_l_siro_f
+    400100: ribon_r_ball
+    400102: ribon_r_base
+    400104: ribon_r_siro_b
+    400106: ribon_r_siro_f
+    400108: sholder_L
+    400110: sholder_R
+    400112: siro
+    400114: skirt
+    400116: skl_root
+    400118: spine01
+    400120: spine02
+    400122: toe_L
+    400124: toe_R
+    400126: wrist_L
+    400128: wrist_R
+    400130: yokokami_l
+    400132: yokokami_r
+    2300000: eyeline_batsu
+    2300002: eyeline_guruguru
+    2300004: face
+    2300006: face_non_eye
+    2300008: face_non_eye1
+    2300010: kanban_choki
+    2300012: kanban_gu
+    2300014: kanbann_pa
+    3300000: eyeline_batsu
+    3300002: eyeline_guruguru
+    3300004: face
+    3300006: face_non_eye
+    3300008: face_non_eye1
+    3300010: kanban_choki
+    3300012: kanban_gu
+    3300014: kanbann_pa
+    4300000: hair_front
+    4300002: hair_back
+    4300004: ribon_l_siro_f
+    4300006: ribon_l_siro_b
+    4300008: ribon_l_ball
+    4300010: ribon_l_base
+    4300012: ribon_r_siro_f
+    4300014: ribon_r_siro_b
+    4300016: ribon_r_ball
+    4300018: ribon_r_base
+    4300020: yokokami_l
+    4300022: yokokami_r
+    4300024: obi
+    4300026: body
+    4300028: happi
+    4300030: siro
+    4300032: skirt
+    4300034: hand_r
+    4300036: hand_l
+    4300038: kanban_choki
+    4300040: kanbann_pa
+    4300042: kanban_gu
+    4300044: face
+    4300046: eyeline_batsu
+    4300048: face_non_eye
+    4300050: eyeline_guruguru
+    4300052: face_non_eye1
+    7400000: In
+    7400002: Idle
+    7400004: RPSInputWait
+    7400006: Rock
+    7400008: Paper
+    7400010: Scissor
+    7400012: AttackRock
+    7400014: AttackPaper
+    7400016: AttackScissor
+    7400018: MissRock
+    7400020: MissPaper
+    7400022: MissScissor
+    7400024: Defence
+    7400026: Damage
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: hair_back
+    13700004: hair_front
+    13700006: hand_l
+    13700008: hand_r
+    13700010: happi
+    13700012: obi
+    13700014: ribon_l_ball
+    13700016: ribon_l_base
+    13700018: ribon_l_siro_b
+    13700020: ribon_l_siro_f
+    13700022: ribon_r_ball
+    13700024: ribon_r_base
+    13700026: ribon_r_siro_b
+    13700028: ribon_r_siro_f
+    13700030: siro
+    13700032: skirt
+    13700034: yokokami_l
+    13700036: yokokami_r
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: In
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 89
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RPSInputWait
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 149
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Rock
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Paper
+      takeName: Take 001
+      firstFrame: 190
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Scissor
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AttackRock
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AttackPaper
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AttackScissor
+      takeName: Take 001
+      firstFrame: 280
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MissRock
+      takeName: Take 001
+      firstFrame: 420
+      lastFrame: 479
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MissPaper
+      takeName: Take 001
+      firstFrame: 540
+      lastFrame: 599
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MissScissor
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 539
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Defence
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 659
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Damage
+      takeName: Take 001
+      firstFrame: 660
+      lastFrame: 680
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: obj_root
+        weight: 1
+      - path: obj_root/body
+        weight: 1
+      - path: obj_root/buki_pos_null
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_choki
+        weight: 1
+      - path: obj_root/buki_pos_null/kanban_gu
+        weight: 1
+      - path: obj_root/buki_pos_null/kanbann_pa
+        weight: 1
+      - path: obj_root/face_01
+        weight: 1
+      - path: obj_root/face_01/face
+        weight: 1
+      - path: obj_root/face_02
+        weight: 1
+      - path: obj_root/face_02/eyeline_batsu
+        weight: 1
+      - path: obj_root/face_02/face_non_eye
+        weight: 1
+      - path: obj_root/face_03
+        weight: 1
+      - path: obj_root/face_03/eyeline_guruguru
+        weight: 1
+      - path: obj_root/face_03/face_non_eye1
+        weight: 1
+      - path: obj_root/hair_back
+        weight: 1
+      - path: obj_root/hair_front
+        weight: 1
+      - path: obj_root/hand_l
+        weight: 1
+      - path: obj_root/hand_r
+        weight: 1
+      - path: obj_root/happi
+        weight: 1
+      - path: obj_root/obi
+        weight: 1
+      - path: obj_root/ribon_l_ball
+        weight: 1
+      - path: obj_root/ribon_l_base
+        weight: 1
+      - path: obj_root/ribon_l_siro_b
+        weight: 1
+      - path: obj_root/ribon_l_siro_f
+        weight: 1
+      - path: obj_root/ribon_r_ball
+        weight: 1
+      - path: obj_root/ribon_r_base
+        weight: 1
+      - path: obj_root/ribon_r_siro_b
+        weight: 1
+      - path: obj_root/ribon_r_siro_f
+        weight: 1
+      - path: obj_root/siro
+        weight: 1
+      - path: obj_root/skirt
+        weight: 1
+      - path: obj_root/yokokami_l
+        weight: 1
+      - path: obj_root/yokokami_r
+        weight: 1
+      - path: old4:game_cam
+        weight: 1
+      - path: skl_root
+        weight: 1
+      - path: skl_root/hip_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L
+        weight: 1
+      - path: skl_root/hip_L/knee_L/ankle_L/toe_L
+        weight: 1
+      - path: skl_root/hip_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R
+        weight: 1
+      - path: skl_root/hip_R/knee_R/ankle_R/toe_R
+        weight: 1
+      - path: skl_root/spine01
+        weight: 1
+      - path: skl_root/spine01/spine02
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_L/sholder_L/elbow_L/wrist_L/hand_L/finger_L
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R
+        weight: 1
+      - path: skl_root/spine01/spine02/clav_R/sholder_R/elbow_R/wrist_R/hand_R/finger_R
+        weight: 1
+      - path: skl_root/spine01/spine02/neck
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_L_01/hair_L_02/hair_L_03/hair_L_04
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03
+        weight: 1
+      - path: skl_root/spine01/spine02/neck/head/hair_R_01/hair_R_02/hair_R_03/hair_R_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

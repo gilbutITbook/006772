@@ -1,0 +1,13 @@
+とうふのつもり
+ぼわんけむり	 Particle System_smoke01
+犬がはしるとき/家があるくときの土煙	 Particle System_smoke02
+たらいが水面を進むときの波紋	 Particle System_ripple
+
+がんもどき
+ろうそくの火	 Particle System_rousoku	
+アイテム使用時エフェクト	 Particle System_heal_base	
+アイテム拾ったとき	 Particle System_itemget_base	
+アイス食べ過ぎて頭がじんじんしてるとき	 Particle System_jinjin_direction	
+ドーナッツに浮かぶ文字「ＳＯ　ＳＷＥＥＥＥＴ」	 別途２Ｄ素材
+オーラエフェクト	 Particle System_aura
+火の玉	 Particle System_fireball_base

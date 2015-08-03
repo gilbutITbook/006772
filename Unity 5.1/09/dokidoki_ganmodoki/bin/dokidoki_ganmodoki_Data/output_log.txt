@@ -1,0 +1,154 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\online_kr\09\dokidoki_ganmodoki\bin\dokidoki_ganmodoki_Data\Managed\System.dll (this message is harmless)
+Connect call
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+CreateThread
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+CreateThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Thread launched.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+transport Connect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ThreadDispatch:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Transport connect called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Connect fail
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+System.Net.Sockets.SocketException: 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다.
+
+  at System.Net.Sockets.Socket.Connect (System.Net.IPAddress[] addresses, Int32 port) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.Connect (System.String host, Int32 port) [0x00000] in <filename unknown>:0 
+  at TransportTCP.Connect (System.String address, Int32 port) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportTCP connect:False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:-1 type:Connect State:Connect[Failure]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[CLIENT]connect event handling:-1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+StopServer called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Thread end.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnApplicationQuit called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+StopServer called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

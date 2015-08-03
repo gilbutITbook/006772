@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: CharacterRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c92f66aa40cb1343926c405aeed344b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chr_model_prefabs:
+  - {fileID: 100166, guid: da8a14c70daf08d48ab29e6f611d51c1, type: 2}
+  - {fileID: 100210, guid: b50bbb9eb882a0d42a0e503b2215723e, type: 2}
+  - {fileID: 100166, guid: b287a4da83dce5745a50b8a925d88a16, type: 2}
+  - {fileID: 100140, guid: cb7be1c33a8bae04393d90c251bd0ac3, type: 2}
+  - {fileID: 100000, guid: 0f38d21f9c72df64a8e76dfba94635a1, type: 2}
+  - {fileID: 100114, guid: 50c29475004f67b44b0e60099f593e01, type: 2}
+  - {fileID: 100002, guid: 92fddf5416b542945b84c73f8c5ea6a6, type: 2}
+  - {fileID: 100040, guid: 8a83bedc4fa120e49b9d8f997b3c4270, type: 2}
+  - {fileID: 100148, guid: 0456e9742f817d546bba57ab343accaa, type: 2}
+  - {fileID: 100000, guid: 0d4e9c8ee3484ff419e7527252780445, type: 2}
+  - {fileID: 100008, guid: 457e8061444fb6c4794771f28aac3eff, type: 2}
+  - {fileID: 100242, guid: 98f81d7448c49f0469967e9867437497, type: 2}
+  - {fileID: 100000, guid: b073a55920756de468104921e456a2e5, type: 2}
+  - {fileID: 100122, guid: 5b0fc970906028744a5ce40073152725, type: 2}
+  - {fileID: 100108, guid: 4dc9db54790755448b02d3076de06c28, type: 2}
+  damage_material: {fileID: 2100000, guid: 3b5d1acda71e6f048b4128a0c80491c9, type: 2}
+  vanish_material: {fileID: 2100000, guid: 2c9af1bfc2cac904ca62e916fed98129, type: 2}
+  player_bullet_negi_prefab: {fileID: 100000, guid: c7e1979e37c036846ab90ab5ed7195ae,
+    type: 2}
+  player_bullet_yuzu_prefab: {fileID: 100002, guid: 9b7df208263727045bce2628878376d8,
+    type: 2}
+  enemy_bullet_prefab: {fileID: 100006, guid: 2212910537b7f2140b198b33a2df523c, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

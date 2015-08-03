@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 0a655450cc6ca6146bd751a413916142
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ALL_ROOT
+    100002: Camera
+    100004: hanako
+    100006: //RootNode
+    100008: Lamp
+    100010: Left_leg
+    100012: Left_leg_end
+    100014: Left_paw
+    100016: Left_paw_end
+    100018: mayuge
+    100020: neck
+    100022: neck_end
+    100024: Right_leg
+    100026: Right_leg_end
+    100028: Right_paw
+    100030: Right_paw_end
+    100032: spine01
+    100034: spine02
+    100036: tail01
+    100038: tail02
+    100040: tail03
+    400000: ALL_ROOT
+    400002: Camera
+    400004: hanako
+    400006: //RootNode
+    400008: Lamp
+    400010: Left_leg
+    400012: Left_leg_end
+    400014: Left_paw
+    400016: Left_paw_end
+    400018: mayuge
+    400020: neck
+    400022: neck_end
+    400024: Right_leg
+    400026: Right_leg_end
+    400028: Right_paw
+    400030: Right_paw_end
+    400032: spine01
+    400034: spine02
+    400036: tail01
+    400038: tail02
+    400040: tail03
+    4300000: hanako
+    4300002: mayuge
+    7400000: Boss_QuickAttack
+    9500000: //RootNode
+    13700000: hanako
+    13700002: mayuge
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boss_QuickAttack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: NotifyQuickAttack_End
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .350210994
+        functionName: NotifyQuickAttack_Impact
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ALL_ROOT
+        weight: 1
+      - path: ALL_ROOT/hanako
+        weight: 1
+      - path: ALL_ROOT/mayuge
+        weight: 1
+      - path: ALL_ROOT/spine01
+        weight: 1
+      - path: ALL_ROOT/spine01/Left_paw
+        weight: 1
+      - path: ALL_ROOT/spine01/Left_paw/Left_paw_end
+        weight: 1
+      - path: ALL_ROOT/spine01/neck
+        weight: 1
+      - path: ALL_ROOT/spine01/neck/neck_end
+        weight: 1
+      - path: ALL_ROOT/spine01/Right_paw
+        weight: 1
+      - path: ALL_ROOT/spine01/Right_paw/Right_paw_end
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/Left_leg
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/Left_leg/Left_leg_end
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/Right_leg
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/Right_leg/Right_leg_end
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/tail01
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/tail01/tail02
+        weight: 1
+      - path: ALL_ROOT/spine01/spine02/tail01/tail02/tail03
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: ALL_ROOT
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9229ca9549153a842a69b7116ffd383d,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

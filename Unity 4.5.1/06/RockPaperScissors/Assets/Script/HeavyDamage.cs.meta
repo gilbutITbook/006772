@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9bc6621de061d724abc580b63aeae644
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_hitSE: {fileID: 8300000, guid: af0223a6da3fefe4ea6bedabf928c27c, type: 3}
+  - m_collideSE: {fileID: 8300000, guid: d9ecf32dcb6b65948994b17ece6f69d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

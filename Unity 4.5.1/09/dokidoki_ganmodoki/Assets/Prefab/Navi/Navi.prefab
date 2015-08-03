@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Navi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cbe795691165b42ad407fed9a69a77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ready_yell_prefab: {fileID: 100000, guid: 47de2cfdeb9208740a08413ad411df20, type: 2}
+  status_window_local_prefab: {fileID: 100000, guid: 8af70b84815cf2740901b6e39eb66cb1,
+    type: 2}
+  status_window_net_prefab: {fileID: 100000, guid: b3db537e9fe260a4a930564157ce6058,
+    type: 2}
+  marker_prefab: {fileID: 100000, guid: 40af4c0fea9ab8a4c816f58bddd404e1, type: 2}
+  kabusan_speech_prefab: {fileID: 100000, guid: 80428c37a0a82364a8727273c1619868,
+    type: 2}
+  selecting_icon_prefab: {fileID: 100000, guid: f9c8b5070409dc4498a057ba56c7294f,
+    type: 2}
+  cake_timer_prefab: {fileID: 100000, guid: c9f70e4d0837d7245b1fdc800d84bb61, type: 2}
+  face_icon_textures:
+  - {fileID: 2800000, guid: 04d2c56af0d413c41ba59d8d2a9f3524, type: 3}
+  - {fileID: 2800000, guid: 670c13efcf76f284f9f4c6b6b6cb3b0c, type: 3}
+  - {fileID: 2800000, guid: 101b3edf7a69751459fc7eee1291344c, type: 3}
+  - {fileID: 2800000, guid: d93988ab2135752489052d1b1e83beee, type: 3}
+  cookie_icon_textures:
+  - {fileID: 2800000, guid: 51ab5450df458e14bbe96dfc05350cc4, type: 3}
+  - {fileID: 2800000, guid: e1cfa423cbb5816449901d98efdbb289, type: 3}
+  - {fileID: 2800000, guid: 1221c2f30177dd24d93374e55f064c8a, type: 3}
+  - {fileID: 2800000, guid: d7a128efcb6d1f944951d31cfda9d89a, type: 3}
+  number_textures:
+  - {fileID: 2800000, guid: 58d8b1c0f1af2d14eaba54a436152d79, type: 3}
+  - {fileID: 2800000, guid: 72b370045865ba84d985f42378658011, type: 3}
+  - {fileID: 2800000, guid: 25153bb79b7d95d43b80b1ecceb9f1a9, type: 3}
+  - {fileID: 2800000, guid: a96f5fc00778dfc4599e5b4066db8a68, type: 3}
+  - {fileID: 2800000, guid: 5fcbb94b47e4e2b46a28e23a76901885, type: 3}
+  - {fileID: 2800000, guid: e92b47544fecd6c4c9c6677e013c1121, type: 3}
+  - {fileID: 2800000, guid: 38d14807e81a73a4c9b37ec86d3ca63e, type: 3}
+  - {fileID: 2800000, guid: f1bd3f5f49abfbf40acaa38108b0365e, type: 3}
+  - {fileID: 2800000, guid: 27e6be00b6e353044ad4e7f4f27d9244, type: 3}
+  - {fileID: 2800000, guid: 607b745e35be9804e90d7241eb50aefa, type: 3}
+  lace_texture: {fileID: 2800000, guid: 6ccb74c65127bd44697dd4cc0a31face, type: 3}
+  toufuya_icon_texture: {fileID: 2800000, guid: 3dfe6b7597ef54f40bd6ff7a5df475c2,
+    type: 3}
+  kabusan_icon_texture: {fileID: 2800000, guid: 92588cd9e74cc864ba4e2754ef978fe0,
+    type: 3}
+  marker_karada_textures:
+  - {fileID: 2800000, guid: d5dd82bcf3733cb4096329420c19fd1a, type: 3}
+  - {fileID: 2800000, guid: ca10018f6b63c1140af9a38ae2f0d60b, type: 3}
+  - {fileID: 2800000, guid: 015ed72683e522b4787d522d8fb611a2, type: 3}
+  - {fileID: 2800000, guid: a96e22c11459fb641bbc36bd17c07f97, type: 3}
+  marker_ude_textures:
+  - {fileID: 2800000, guid: 3c70b58e0e5db8c44b00677c31420df3, type: 3}
+  - {fileID: 2800000, guid: c154e4e59cc42a149acf3c68eed31db9, type: 3}
+  - {fileID: 2800000, guid: e67cd950b90d76e4fa1159bf96a32259, type: 3}
+  - {fileID: 2800000, guid: 3649cce266072784d8b837ae4cf753b3, type: 3}
+  marker_ude_under_textures:
+  - {fileID: 2800000, guid: 4dda860053944e34db075672250c8a92, type: 3}
+  - {fileID: 2800000, guid: 59d1e719fc5d54b448443627aaa52a10, type: 3}
+  - {fileID: 2800000, guid: 6e75687871f7ea4448384e86b99e665b, type: 3}
+  - {fileID: 2800000, guid: 50c76b0c924462b45ad0190ad4363654, type: 3}
+  uun_textures:
+  - {fileID: 2800000, guid: 846c41004a340774e9f415459962b457, type: 3}
+  - {fileID: 2800000, guid: 84c56bdfc79136349b4ebf39d0514919, type: 3}
+  - {fileID: 2800000, guid: f34b0822a60886341a90bf7779cfd467, type: 3}
+  - {fileID: 2800000, guid: 3493fa7275a90144a92325c41d0e22ca, type: 3}
+  hai_textures:
+  - {fileID: 2800000, guid: a28ab4e176c51a94a8dc87cca61df646, type: 3}
+  - {fileID: 2800000, guid: a4a26eafc166b02479aa5bef610013c7, type: 3}
+  - {fileID: 2800000, guid: 50e1c19bac60c474bae6df09721bab3e, type: 3}
+  - {fileID: 2800000, guid: 1045eb6a1ea58144396defc2167b1af9, type: 3}
+  yell_fonts:
+  - font: 0
+    texture: {fileID: 2800000, guid: fc4d0fe7eb5d35241beaaf619e6a48d8, type: 3}
+    is_small: 0
+  - font: 1
+    texture: {fileID: 2800000, guid: 45f843ebe826e834d98550bceae0d92c, type: 3}
+    is_small: 0
+  - font: 2
+    texture: {fileID: 2800000, guid: 52f14055dbd98e949a6690aabe04b405, type: 3}
+    is_small: 1
+  - font: 3
+    texture: {fileID: 2800000, guid: 13e680b81e2ccaf4dabd96cfed14f7e9, type: 3}
+    is_small: 0
+  - font: 4
+    texture: {fileID: 2800000, guid: 65e097e9e6b382d4c994ff2b075d628a, type: 3}
+    is_small: 0
+  - font: 5
+    texture: {fileID: 2800000, guid: 08f8dca00fad10041824fcfeeb01b98b, type: 3}
+    is_small: 0
+  - font: 6
+    texture: {fileID: 2800000, guid: fe2dbe2859a63ef4889a2e473ea3835a, type: 3}
+    is_small: 0
+  - font: 7
+    texture: {fileID: 2800000, guid: 865dcc8c2b29d904ea8416d10c902af4, type: 3}
+    is_small: 0
+  - font: 8
+    texture: {fileID: 2800000, guid: 1ccf4f33b171d5a4fad3eb4272a80ef8, type: 3}
+    is_small: 0
+  - font: 9
+    texture: {fileID: 2800000, guid: 9eabeb80b0936c64da0f91b3230da2a0, type: 3}
+    is_small: 0
+  - font: 10
+    texture: {fileID: 2800000, guid: 92a2877447dc29e48b58f3473d0865c9, type: 3}
+    is_small: 0
+  - font: 11
+    texture: {fileID: 2800000, guid: 47c30d47f6351674a8d90cb9a94d3ae4, type: 3}
+    is_small: 0
+  - font: 12
+    texture: {fileID: 2800000, guid: b75c4652f3563c344a486f545b29619d, type: 3}
+    is_small: 0
+  - font: 13
+    texture: {fileID: 2800000, guid: d64d20790781ee4488098950f1c0cd74, type: 3}
+    is_small: 0
+  - font: 14
+    texture: {fileID: 2800000, guid: a1e6859f7442e2b4bbfa481afcbf2290, type: 3}
+    is_small: 1
+  - font: 15
+    texture: {fileID: 2800000, guid: ef0161a062ae9534ab58e40049192f67, type: 3}
+    is_small: 0
+  - font: 16
+    texture: {fileID: 2800000, guid: 6f9f22ec26deeca47b378988f3c4ad0a, type: 3}
+    is_small: 0
+  - font: 17
+    texture: {fileID: 2800000, guid: 6f4368568523a0a43a98db33259ad3b0, type: 3}
+    is_small: 0
+  - font: 18
+    texture: {fileID: 2800000, guid: dd5a6b25246852240a2c38a3b7033a25, type: 3}
+    is_small: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

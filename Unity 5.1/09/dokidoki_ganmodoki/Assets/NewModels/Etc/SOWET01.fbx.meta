@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: ecc8ee458d545234f803c67603172a1f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: letter_E
+    100002: letter_O
+    100004: letter_S
+    100006: letter_T
+    100008: letter_W
+    100010: //RootNode
+    400000: letter_E
+    400002: letter_O
+    400004: letter_S
+    400006: letter_T
+    400008: letter_W
+    400010: //RootNode
+    2300000: letter_E
+    2300002: letter_O
+    2300004: letter_S
+    2300006: letter_T
+    2300008: letter_W
+    3300000: letter_E
+    3300002: letter_O
+    3300004: letter_S
+    3300006: letter_T
+    3300008: letter_W
+    4300000: letter_S
+    4300002: letter_O
+    4300004: letter_W
+    4300006: letter_E
+    4300008: letter_T
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

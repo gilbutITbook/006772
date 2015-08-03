@@ -1,0 +1,43 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3750]
+    Renderer: NVIDIA GeForce GT 610 
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\이원휘\Desktop\online_game_no_sikumi_samplecode\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\이원휘\Desktop\online_game_no_sikumi_samplecode\05\TicTacToe\bin\TicTacToe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\이원휘\Desktop\online_game_no_sikumi_samplecode\05\TicTacToe\bin\TicTacToe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\이원휘\Desktop\online_game_no_sikumi_samplecode\05\TicTacToe\bin\TicTacToe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\이원휘\Desktop\online_game_no_sikumi_samplecode\05\TicTacToe\bin\TicTacToe_Data\Managed\System.dll (this message is harmless)
+TransportTCP connect called.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Connection success.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Dispatch thread started.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+event handler called
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Recv:0 [False]
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+0|-1|-1|  -1|-1|-1|  -1|-1|-1|  
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+

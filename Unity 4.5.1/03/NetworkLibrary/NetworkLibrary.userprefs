@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\sample-games\dokidoki_ganmodoki\Assets\Script\System\TitleControl.cs">
+    <Files>
+      <File FileName="..\..\..\sample-games\dokidoki_ganmodoki\Assets\Script\Charactor\Enemy\chrBehaviorEnemyMinato.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\moonfox\Documents\Projects\kawada-hon\sample-games\dokidoki_ganmodoki\Assets\Script\Charactor\chrBalloon.cs" Line="28" Column="49" />
+      <File FileName="..\..\..\sample-games\dokidoki_ganmodoki\Assets\Script\Item\ItemManager.cs" Line="40" Column="2" />
+      <File FileName="..\..\..\sample-games\dokidoki_ganmodoki\Assets\Script\System\TitleControl.cs" Line="57" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

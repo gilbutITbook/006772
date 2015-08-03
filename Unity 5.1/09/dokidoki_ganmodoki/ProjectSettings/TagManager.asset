@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - EnemyLair
+  - Enemy
+  - Door
+  - Item
+  - Wall
+  - GameState
+  - Enemy Bullet
+  - Floor
+  - Boss
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: Terrain
+  User Layer 9: Player Bullet
+  User Layer 10: Player
+  User Layer 11: Enemy
+  User Layer 12: Wall
+  User Layer 13: EnemyLair
+  User Layer 14: CollisionManager
+  User Layer 15: Item
+  User Layer 16: Enemy Bullet
+  User Layer 17: Floor
+  User Layer 18: Game Physics
+  User Layer 19: GUI
+  User Layer 20: Effect
+  User Layer 21: Radar
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0

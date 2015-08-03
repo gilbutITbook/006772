@@ -1,0 +1,219 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 9.18.10.3186]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1164 at -1920,-84
+<RI> Initialized touch support.
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rausher\Desktop\반다이 남코 현역 프로그래머가 알려주는 유니티 네트워크 프로그래밍\Unity 5.1\09\MatchingServer\bin\MatchingServer_Data\Managed\System.dll (this message is harmless)
+Start server called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+CreateThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Thread launched.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ThreadDispatch:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server started.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[TCP]AcceptClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[TCP]Create transport
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[TCP]JoinSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Connect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Connect State:Connect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[TCP]Connected from client. [port:50763]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0:0:0:0:0:0:0:1:0:0:0:3:255:255:255:255:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveMatchingRequest:SearchRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveSearchRoomPacket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Request node:0 Created room num:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0:0:0:0:0:0:0:1:0:0:0:0:255:255:255:255:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveMatchingRequest:CreateRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveCreateRoomRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Request node:0 Created room id:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0:0:0:0:0:0:0:1:0:0:0:3:0:0:0:0:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveMatchingRequest:SearchRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveSearchRoomPacket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Request node:0 Created room num:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Room name[0]: [id:0:1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0:0:0:0:0:0:0:1:0:0:0:2:0:0:0:0:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveMatchingRequest:StartSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ReceiveStartSessionRequest[roomId:0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Request room id: 0 MemberNum:1 result:Success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+member[0]:172.16.10.134:50765
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+SignalNotification[0] :Disconnect state:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Disconnect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Disconnect State:Disconnect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Disconnect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Node:0 type:Disconnect State:Disconnect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnApplicationQuit called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+StopServer called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Thread end.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

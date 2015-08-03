@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: 36889324411b6044bb75bdb636743c33
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: anim_All_move_root
+    100002: anim_All_root
+    100004: anim_ankle_L
+    100006: anim_ankle_L_CTL
+    100008: anim_ankle_R
+    100010: anim_ankle_R_CTL
+    100012: anim_body
+    100014: anim_clav_L
+    100016: anim_clav_L_CTL
+    100018: anim_clav_R
+    100020: anim_clav_R_CTL
+    100022: anim_elbow_L
+    100024: anim_elbow_L_CTL
+    100026: anim_elbow_R
+    100028: anim_elbow_R_CTL
+    100030: anim_face
+    100032: anim_finger_L
+    100034: anim_finger_R
+    100036: anim_G_Item_light
+    100038: anim_hair_01
+    100040: anim_hair_01_CTL1
+    100042: anim_hair_02
+    100044: anim_hair_02_CTL
+    100046: anim_hair_03
+    100048: anim_hair_03_CTL
+    100050: anim_hair_04
+    100052: anim_hair_front
+    100054: anim_hand_L
+    100056: anim_hand_L_CTL
+    100058: anim_hand_R
+    100060: anim_hand_R_CTL
+    100062: anim_happi
+    100064: anim_head
+    100066: anim_head 1
+    100068: anim_head_CTL
+    100070: anim_hip_L
+    100072: anim_hip_L_CTL
+    100074: anim_hip_R
+    100076: anim_hip_R_CTL
+    100078: anim_houki
+    100080: anim_Item_light
+    100082: anim_knee_L
+    100084: anim_knee_L_CTL
+    100086: anim_knee_R
+    100088: anim_knee_R_CTL
+    100090: anim_neck
+    100092: anim_neck_CTL
+    100094: anim_obi
+    100096: anim_obj_root
+    100098: anim_Root_CTL
+    100100: anim_sholder_L
+    100102: anim_sholder_L_CTL
+    100104: anim_sholder_R
+    100106: anim_sholder_R_CTL
+    100108: anim_siro
+    100110: anim_skirt
+    100112: anim_skl_root
+    100114: anim_spine01
+    100116: anim_spine01_CTL
+    100118: anim_spine02
+    100120: anim_spine02_CTL
+    100122: anim_toe_L
+    100124: anim_toe_R
+    100126: anim_weapon
+    100128: anim_wrist_L
+    100130: anim_wrist_L_CTL
+    100132: anim_wrist_R
+    100134: anim_wrist_R_CTL
+    100136: anim_yokokami_r
+    100138: //RootNode
+    100140: anim_cream
+    400000: anim_All_move_root
+    400002: anim_All_root
+    400004: anim_ankle_L
+    400006: anim_ankle_L_CTL
+    400008: anim_ankle_R
+    400010: anim_ankle_R_CTL
+    400012: anim_body
+    400014: anim_clav_L
+    400016: anim_clav_L_CTL
+    400018: anim_clav_R
+    400020: anim_clav_R_CTL
+    400022: anim_elbow_L
+    400024: anim_elbow_L_CTL
+    400026: anim_elbow_R
+    400028: anim_elbow_R_CTL
+    400030: anim_face
+    400032: anim_finger_L
+    400034: anim_finger_R
+    400036: anim_G_Item_light
+    400038: anim_hair_01
+    400040: anim_hair_01_CTL1
+    400042: anim_hair_02
+    400044: anim_hair_02_CTL
+    400046: anim_hair_03
+    400048: anim_hair_03_CTL
+    400050: anim_hair_04
+    400052: anim_hair_front
+    400054: anim_hand_L
+    400056: anim_hand_L_CTL
+    400058: anim_hand_R
+    400060: anim_hand_R_CTL
+    400062: anim_happi
+    400064: anim_head
+    400066: anim_head 1
+    400068: anim_head_CTL
+    400070: anim_hip_L
+    400072: anim_hip_L_CTL
+    400074: anim_hip_R
+    400076: anim_hip_R_CTL
+    400078: anim_houki
+    400080: anim_Item_light
+    400082: anim_knee_L
+    400084: anim_knee_L_CTL
+    400086: anim_knee_R
+    400088: anim_knee_R_CTL
+    400090: anim_neck
+    400092: anim_neck_CTL
+    400094: anim_obi
+    400096: anim_obj_root
+    400098: anim_Root_CTL
+    400100: anim_sholder_L
+    400102: anim_sholder_L_CTL
+    400104: anim_sholder_R
+    400106: anim_sholder_R_CTL
+    400108: anim_siro
+    400110: anim_skirt
+    400112: anim_skl_root
+    400114: anim_spine01
+    400116: anim_spine01_CTL
+    400118: anim_spine02
+    400120: anim_spine02_CTL
+    400122: anim_toe_L
+    400124: anim_toe_R
+    400126: anim_weapon
+    400128: anim_wrist_L
+    400130: anim_wrist_L_CTL
+    400132: anim_wrist_R
+    400134: anim_wrist_R_CTL
+    400136: anim_yokokami_r
+    400138: //RootNode
+    400140: anim_cream
+    2300000: anim_houki
+    2300002: anim_Item_light
+    3300000: anim_houki
+    3300002: anim_Item_light
+    4300000: anim_houki
+    4300002: anim_hair_front
+    4300004: anim_face
+    4300006: anim_happi
+    4300008: anim_head
+    4300010: anim_yokokami_r
+    4300012: anim_obi
+    4300014: anim_body
+    4300016: anim_skirt
+    4300018: anim_siro
+    4300020: anim_Item_light
+    4300022: anim_cream
+    7400000: m001_walk
+    7400002: m002_idle
+    7400004: m003_attack
+    7400006: m004_use
+    7400008: m005_damage
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: anim_body
+    13700002: anim_face
+    13700004: anim_hair_front
+    13700006: anim_happi
+    13700008: anim_head
+    13700010: anim_obi
+    13700012: anim_siro
+    13700014: anim_skirt
+    13700016: anim_yokokami_r
+    13700018: anim_cream
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: m001_walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL/anim_ankle_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL/anim_ankle_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL/anim_hand_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL/anim_hair_03_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_obj_root
+        weight: 1
+      - path: anim_obj_root/anim_body
+        weight: 1
+      - path: anim_obj_root/anim_face
+        weight: 1
+      - path: anim_obj_root/anim_hair_front
+        weight: 1
+      - path: anim_obj_root/anim_happi
+        weight: 1
+      - path: anim_obj_root/anim_head
+        weight: 1
+      - path: anim_obj_root/anim_obi
+        weight: 1
+      - path: anim_obj_root/anim_siro
+        weight: 1
+      - path: anim_obj_root/anim_skirt
+        weight: 1
+      - path: anim_obj_root/anim_yokokami_r
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03/anim_hair_04
+        weight: 1
+      - path: anim_weapon
+        weight: 1
+      - path: anim_weapon/anim_houki
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m002_idle
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL/anim_ankle_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL/anim_ankle_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL/anim_hand_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL/anim_hair_03_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_obj_root
+        weight: 1
+      - path: anim_obj_root/anim_body
+        weight: 1
+      - path: anim_obj_root/anim_face
+        weight: 1
+      - path: anim_obj_root/anim_hair_front
+        weight: 1
+      - path: anim_obj_root/anim_happi
+        weight: 1
+      - path: anim_obj_root/anim_head
+        weight: 1
+      - path: anim_obj_root/anim_obi
+        weight: 1
+      - path: anim_obj_root/anim_siro
+        weight: 1
+      - path: anim_obj_root/anim_skirt
+        weight: 1
+      - path: anim_obj_root/anim_yokokami_r
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03/anim_hair_04
+        weight: 1
+      - path: anim_weapon
+        weight: 1
+      - path: anim_weapon/anim_houki
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m003_attack
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL/anim_ankle_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL/anim_ankle_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL/anim_hand_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL/anim_hair_03_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_obj_root
+        weight: 1
+      - path: anim_obj_root/anim_body
+        weight: 1
+      - path: anim_obj_root/anim_face
+        weight: 1
+      - path: anim_obj_root/anim_hair_front
+        weight: 1
+      - path: anim_obj_root/anim_happi
+        weight: 1
+      - path: anim_obj_root/anim_head
+        weight: 1
+      - path: anim_obj_root/anim_obi
+        weight: 1
+      - path: anim_obj_root/anim_siro
+        weight: 1
+      - path: anim_obj_root/anim_skirt
+        weight: 1
+      - path: anim_obj_root/anim_yokokami_r
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03/anim_hair_04
+        weight: 1
+      - path: anim_weapon
+        weight: 1
+      - path: anim_weapon/anim_houki
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m004_use
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL/anim_ankle_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL/anim_ankle_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL/anim_hand_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL/anim_hair_03_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_obj_root
+        weight: 1
+      - path: anim_obj_root/anim_body
+        weight: 1
+      - path: anim_obj_root/anim_face
+        weight: 1
+      - path: anim_obj_root/anim_hair_front
+        weight: 1
+      - path: anim_obj_root/anim_happi
+        weight: 1
+      - path: anim_obj_root/anim_head
+        weight: 1
+      - path: anim_obj_root/anim_obi
+        weight: 1
+      - path: anim_obj_root/anim_siro
+        weight: 1
+      - path: anim_obj_root/anim_skirt
+        weight: 1
+      - path: anim_obj_root/anim_yokokami_r
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03/anim_hair_04
+        weight: 1
+      - path: anim_weapon
+        weight: 1
+      - path: anim_weapon/anim_houki
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m005_damage
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_L_CTL/anim_knee_L_CTL/anim_ankle_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_hip_R_CTL/anim_knee_R_CTL/anim_ankle_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_L_CTL/anim_sholder_L_CTL/anim_elbow_L_CTL/anim_wrist_L_CTL/anim_hand_L_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_clav_R_CTL/anim_sholder_R_CTL/anim_elbow_R_CTL/anim_wrist_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL/anim_spine01_CTL/anim_spine02_CTL/anim_neck_CTL/anim_head_CTL/anim_hair_01_CTL1/anim_hair_02_CTL/anim_hair_03_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_obj_root
+        weight: 1
+      - path: anim_obj_root/anim_body
+        weight: 1
+      - path: anim_obj_root/anim_face
+        weight: 1
+      - path: anim_obj_root/anim_hair_front
+        weight: 1
+      - path: anim_obj_root/anim_happi
+        weight: 1
+      - path: anim_obj_root/anim_head
+        weight: 1
+      - path: anim_obj_root/anim_obi
+        weight: 1
+      - path: anim_obj_root/anim_siro
+        weight: 1
+      - path: anim_obj_root/anim_skirt
+        weight: 1
+      - path: anim_obj_root/anim_yokokami_r
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_head 1/anim_hair_01/anim_hair_02/anim_hair_03/anim_hair_04
+        weight: 1
+      - path: anim_weapon
+        weight: 1
+      - path: anim_weapon/anim_houki
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

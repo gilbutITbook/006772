@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Character\CharacterRoot.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Network\Network.cs" Line="1" Column="1" />
+      <File FileName="..\..\09\dokidoki_ganmodoki\Assets\Script\Character\CharacterRoot.cs" Line="1" Column="1" />
+      <File FileName="..\..\09\dokidoki_ganmodoki\Assets\Script\Character\chrController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Network\GameServer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character\CharacterRoot.cs" Line="267" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="" Email="" Copyright="" Company="" Trademark="" />
+</Properties>

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 05a8f8491bdf269438b086bd569e79a8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: anim_All_move_root
+    100002: anim_All_root
+    100004: anim_ankle_L
+    100006: anim_ankle_R
+    100008: anim_clav_L
+    100010: anim_clav_R
+    100012: anim_elbow_L
+    100014: anim_elbow_R
+    100016: anim_face
+    100018: anim_finger_L
+    100020: anim_finger_R
+    100022: anim_G_Item_light
+    100024: anim_hair
+    100026: anim_hand_L
+    100028: anim_hand_l
+    100030: anim_hand_R
+    100032: anim_hand_r
+    100034: anim_happi
+    100036: anim_heead
+    100038: anim_hip_L
+    100040: anim_hip_R
+    100042: anim_Item_light
+    100044: anim_knee_L
+    100046: anim_knee_R
+    100048: anim_leg_l
+    100050: anim_leg_r
+    100052: anim_neck
+    100054: anim_negi1
+    100056: anim_obi
+    100058: anim_obi_kazari
+    100060: anim_Root_CTL
+    100062: anim_sholder_L
+    100064: anim_sholder_R
+    100066: anim_siro
+    100068: anim_skirt
+    100070: anim_skl_root
+    100072: anim_spine01
+    100074: anim_spine02
+    100076: anim_toe_L
+    100078: anim_toe_R
+    100080: anim_toufuya
+    100082: anim_wepon
+    100084: anim_wrist_L
+    100086: anim_wrist_R
+    100088: //RootNode
+    400000: anim_All_move_root
+    400002: anim_All_root
+    400004: anim_ankle_L
+    400006: anim_ankle_R
+    400008: anim_clav_L
+    400010: anim_clav_R
+    400012: anim_elbow_L
+    400014: anim_elbow_R
+    400016: anim_face
+    400018: anim_finger_L
+    400020: anim_finger_R
+    400022: anim_G_Item_light
+    400024: anim_hair
+    400026: anim_hand_L
+    400028: anim_hand_l
+    400030: anim_hand_R
+    400032: anim_hand_r
+    400034: anim_happi
+    400036: anim_heead
+    400038: anim_hip_L
+    400040: anim_hip_R
+    400042: anim_Item_light
+    400044: anim_knee_L
+    400046: anim_knee_R
+    400048: anim_leg_l
+    400050: anim_leg_r
+    400052: anim_neck
+    400054: anim_negi1
+    400056: anim_obi
+    400058: anim_obi_kazari
+    400060: anim_Root_CTL
+    400062: anim_sholder_L
+    400064: anim_sholder_R
+    400066: anim_siro
+    400068: anim_skirt
+    400070: anim_skl_root
+    400072: anim_spine01
+    400074: anim_spine02
+    400076: anim_toe_L
+    400078: anim_toe_R
+    400080: anim_toufuya
+    400082: anim_wepon
+    400084: anim_wrist_L
+    400086: anim_wrist_R
+    400088: //RootNode
+    2300000: anim_Item_light
+    2300002: anim_negi1
+    3300000: anim_Item_light
+    3300002: anim_negi1
+    4300000: anim_face
+    4300002: anim_hair
+    4300004: anim_hand_l
+    4300006: anim_hand_r
+    4300008: anim_happi
+    4300010: anim_obi_kazari
+    4300012: anim_obi
+    4300014: anim_siro
+    4300016: anim_skirt
+    4300018: anim_leg_l
+    4300020: anim_leg_r
+    4300022: anim_negi1
+    4300024: anim_Item_light
+    7400000: m006_out
+    7400002: m007_out_lp
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: anim_face
+    13700002: anim_hair
+    13700004: anim_hand_l
+    13700006: anim_hand_r
+    13700008: anim_happi
+    13700010: anim_leg_l
+    13700012: anim_leg_r
+    13700014: anim_obi
+    13700016: anim_obi_kazari
+    13700018: anim_siro
+    13700020: anim_skirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: m006_out
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_heead
+        weight: 1
+      - path: anim_toufuya
+        weight: 1
+      - path: anim_toufuya/anim_face
+        weight: 1
+      - path: anim_toufuya/anim_hair
+        weight: 1
+      - path: anim_toufuya/anim_hand_l
+        weight: 1
+      - path: anim_toufuya/anim_hand_r
+        weight: 1
+      - path: anim_toufuya/anim_happi
+        weight: 1
+      - path: anim_toufuya/anim_leg_l
+        weight: 1
+      - path: anim_toufuya/anim_leg_r
+        weight: 1
+      - path: anim_toufuya/anim_obi
+        weight: 1
+      - path: anim_toufuya/anim_obi_kazari
+        weight: 1
+      - path: anim_toufuya/anim_siro
+        weight: 1
+      - path: anim_toufuya/anim_skirt
+        weight: 1
+      - path: anim_wepon
+        weight: 1
+      - path: anim_wepon/anim_negi1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m007_out_lp
+      takeName: Take 001
+      firstFrame: 122
+      lastFrame: 160
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root
+        weight: 1
+      - path: anim_All_root/anim_All_move_root/anim_Root_CTL
+        weight: 1
+      - path: anim_G_Item_light
+        weight: 1
+      - path: anim_G_Item_light/anim_Item_light
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_hip_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_L/anim_knee_L/anim_ankle_L/anim_toe_L
+        weight: 1
+      - path: anim_skl_root/anim_hip_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R
+        weight: 1
+      - path: anim_skl_root/anim_hip_R/anim_knee_R/anim_ankle_R/anim_toe_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_L/anim_sholder_L/anim_elbow_L/anim_wrist_L/anim_hand_L/anim_finger_L
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_clav_R/anim_sholder_R/anim_elbow_R/anim_wrist_R/anim_hand_R/anim_finger_R
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck
+        weight: 1
+      - path: anim_skl_root/anim_spine01/anim_spine02/anim_neck/anim_heead
+        weight: 1
+      - path: anim_toufuya
+        weight: 1
+      - path: anim_toufuya/anim_face
+        weight: 1
+      - path: anim_toufuya/anim_hair
+        weight: 1
+      - path: anim_toufuya/anim_hand_l
+        weight: 1
+      - path: anim_toufuya/anim_hand_r
+        weight: 1
+      - path: anim_toufuya/anim_happi
+        weight: 1
+      - path: anim_toufuya/anim_leg_l
+        weight: 1
+      - path: anim_toufuya/anim_leg_r
+        weight: 1
+      - path: anim_toufuya/anim_obi
+        weight: 1
+      - path: anim_toufuya/anim_obi_kazari
+        weight: 1
+      - path: anim_toufuya/anim_siro
+        weight: 1
+      - path: anim_toufuya/anim_skirt
+        weight: 1
+      - path: anim_wepon
+        weight: 1
+      - path: anim_wepon/anim_negi1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

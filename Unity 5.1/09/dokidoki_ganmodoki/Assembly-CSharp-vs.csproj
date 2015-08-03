@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{39829162-DF6B-82A1-6EAC-223A1ACECFBD}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_1_2;UNITY_5_1;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_LICENSE;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_EDITOR_METRICS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Script\Character\Action\chrActionBase.cs" />
+     <Compile Include="Assets\Script\Character\Action\chrActionEnemy.cs" />
+     <Compile Include="Assets\Script\Character\Action\chrActionEnemySub.cs" />
+     <Compile Include="Assets\Script\Character\CharacterRoot.cs" />
+     <Compile Include="Assets\Script\Character\Controller\chrControllerEnemyBase.cs" />
+     <Compile Include="Assets\Script\Character\Controller\chrControllerEnemyBoss.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\EnemyBulletControl.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\EnemyDef.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemy.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemyBoss.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemyBoss_Human.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemy_Kumasan.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemy_Lair.cs" />
+     <Compile Include="Assets\Script\Character\Enemy\chrBehaviorEnemy_Obake.cs" />
+     <Compile Include="Assets\Script\Character\MeleeAttack.cs" />
+     <Compile Include="Assets\Script\Character\PartyControl.cs" />
+     <Compile Include="Assets\Script\Character\Player\ItemWindow.cs" />
+     <Compile Include="Assets\Script\Character\Player\SkinColorControl.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorBeast_Dog.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorBeast_Neko.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorFakeNet.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorKabu.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorLocal.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorNet.cs" />
+     <Compile Include="Assets\Script\Character\Player\chrBehaviorPlayer.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\BulletShooter.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\BulletShooter_negi.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\BulletShooter_yuzu.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\PlayerBulletControl.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\PlayerBulletControl_negi.cs" />
+     <Compile Include="Assets\Script\Character\PlayerWeapon\PlayerBulletControl_yuzu.cs" />
+     <Compile Include="Assets\Script\Character\TestLayer.cs" />
+     <Compile Include="Assets\Script\Character\chrBalloon.cs" />
+     <Compile Include="Assets\Script\Character\chrBehaviorBase.cs" />
+     <Compile Include="Assets\Script\Character\chrController.cs" />
+     <Compile Include="Assets\Script\Debug\ClipboardHelper.cs" />
+     <Compile Include="Assets\Script\Debug\DebugPrint.cs" />
+     <Compile Include="Assets\Script\Debug\DebugWindow.cs" />
+     <Compile Include="Assets\Script\Effect\AtariOugiControl.cs" />
+     <Compile Include="Assets\Script\Effect\DamageEffect.cs" />
+     <Compile Include="Assets\Script\Effect\DoorMojiControl.cs" />
+     <Compile Include="Assets\Script\Effect\EffectSelfRelease.cs" />
+     <Compile Include="Assets\Script\Effect\HitEffectControl.cs" />
+     <Compile Include="Assets\Script\Event\EventDataIceAtari.cs" />
+     <Compile Include="Assets\Script\Event\EventIceAtari.cs" />
+     <Compile Include="Assets\Script\Event\EventTransport.cs" />
+     <Compile Include="Assets\Script\Event\EventWeaponSelect.cs" />
+     <Compile Include="Assets\Script\Item\ItemBehaviorBase.cs" />
+     <Compile Include="Assets\Script\Item\ItemController.cs" />
+     <Compile Include="Assets\Script\Item\ItemDef.cs" />
+     <Compile Include="Assets\Script\Item\ItemManager.cs" />
+     <Compile Include="Assets\Script\Level\BossLevelSequecneBoss.cs" />
+     <Compile Include="Assets\Script\Level\BossLevelSequence.cs" />
+     <Compile Include="Assets\Script\Level\BossLevelSequenceCake.cs" />
+     <Compile Include="Assets\Script\Level\BossLevelSequenceResult.cs" />
+     <Compile Include="Assets\Script\Level\CakeTrolley.cs" />
+     <Compile Include="Assets\Script\Level\LevelControl.cs" />
+     <Compile Include="Assets\Script\Level\NormalLevelSequence.cs" />
+     <Compile Include="Assets\Script\Level\WeaponSelectLevelSequence.cs" />
+     <Compile Include="Assets\Script\Map\BossMapInitializer.cs" />
+     <Compile Include="Assets\Script\Map\FieldGenerator.cs" />
+     <Compile Include="Assets\Script\Map\MapInitializer.cs" />
+     <Compile Include="Assets\Script\Map\StdMapInitializer.cs" />
+     <Compile Include="Assets\Script\Map\TestMapInitializer.cs" />
+     <Compile Include="Assets\Script\Map\WeaponSelectMapInitializer.cs" />
+     <Compile Include="Assets\Script\Misc\CameraModule.cs" />
+     <Compile Include="Assets\Script\Misc\ExtensionGameObject.cs" />
+     <Compile Include="Assets\Script\Misc\ExtensionMath.cs" />
+     <Compile Include="Assets\Script\Misc\FootSmokeEffectControl.cs" />
+     <Compile Include="Assets\Script\Misc\PseudoRandom.cs" />
+     <Compile Include="Assets\Script\Misc\SimpleSpline.cs" />
+     <Compile Include="Assets\Script\Misc\SimpleSplineObject.cs" />
+     <Compile Include="Assets\Script\Misc\Step.cs" />
+     <Compile Include="Assets\Script\Misc\ipCell.cs" />
+     <Compile Include="Assets\Script\Misc\ipModule.cs" />
+     <Compile Include="Assets\Script\Navi\CakeTimer.cs" />
+     <Compile Include="Assets\Script\Navi\KabusanSpeech.cs" />
+     <Compile Include="Assets\Script\Navi\Marker.cs" />
+     <Compile Include="Assets\Script\Navi\Navi.cs" />
+     <Compile Include="Assets\Script\Navi\SelectingIcon.cs" />
+     <Compile Include="Assets\Script\Navi\StatusWindowLocal.cs" />
+     <Compile Include="Assets\Script\Navi\StatusWindowNet.cs" />
+     <Compile Include="Assets\Script\Navi\YellDisp.cs" />
+     <Compile Include="Assets\Script\Network\GameServer.cs" />
+     <Compile Include="Assets\Script\Network\IPacket.cs" />
+     <Compile Include="Assets\Script\Network\MatchingClient.cs" />
+     <Compile Include="Assets\Script\Network\Network.cs" />
+     <Compile Include="Assets\Script\Network\NetworkDef.cs" />
+     <Compile Include="Assets\Script\Network\Packet.cs" />
+     <Compile Include="Assets\Script\Network\PacketQueue.cs" />
+     <Compile Include="Assets\Script\Network\PacketSerializer.cs" />
+     <Compile Include="Assets\Script\Network\PacketStructs.cs" />
+     <Compile Include="Assets\Script\Network\Serializer.cs" />
+     <Compile Include="Assets\Script\Network\Session.cs" />
+     <Compile Include="Assets\Script\Network\SessionTcp.cs" />
+     <Compile Include="Assets\Script\Network\SessionUdp.cs" />
+     <Compile Include="Assets\Script\Network\SplineData.cs" />
+     <Compile Include="Assets\Script\Network\Transport.cs" />
+     <Compile Include="Assets\Script\Network\TransportTcp.cs" />
+     <Compile Include="Assets\Script\Network\TransportUdp.cs" />
+     <Compile Include="Assets\Script\Stage\DoorControl.cs" />
+     <Compile Include="Assets\Script\Stage\MapCreator.cs" />
+     <Compile Include="Assets\Script\Stage\MapDef.cs" />
+     <Compile Include="Assets\Script\Stage\RoomController.cs" />
+     <Compile Include="Assets\Script\Stage\RoomWallControl.cs" />
+     <Compile Include="Assets\Script\System\AccountManager.cs" />
+     <Compile Include="Assets\Script\System\CameraControl.cs" />
+     <Compile Include="Assets\Script\System\CollisionManager.cs" />
+     <Compile Include="Assets\Script\System\DebugRadar.cs" />
+     <Compile Include="Assets\Script\System\EffectRoot.cs" />
+     <Compile Include="Assets\Script\System\EnemyRoot.cs" />
+     <Compile Include="Assets\Script\System\EventRoot.cs" />
+     <Compile Include="Assets\Script\System\GameInput.cs" />
+     <Compile Include="Assets\Script\System\GameRoot.cs" />
+     <Compile Include="Assets\Script\System\GlobalParam.cs" />
+     <Compile Include="Assets\Script\System\QueryManager.cs" />
+     <Compile Include="Assets\Script\System\SoundManager.cs" />
+     <Compile Include="Assets\Script\System\Sprite2DControl.cs" />
+     <Compile Include="Assets\Script\System\Sprite2DRoot.cs" />
+     <Compile Include="Assets\Script\System\TitleControl.cs" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Shaders\ganmo_sprite2d_transparent.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Shaders\ganmo_inner_wall.shader" />
+     <None Include="Assets\Shaders\ganmo_door_moji.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Shaders\ganmo_sprite2d_texture_blend.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Shaders\ganmo_player.shader" />
+     <None Include="Assets\Shaders\ganmo_cake_timer.shader" />
+     <None Include="Assets\StrumpyShaderEditor\Editor\Resources\Internal\TextureCopy.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

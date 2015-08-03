@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4e19407742a164f459d3608346cd81e4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - networkPrefab: {instanceID: 0}
+  - m_addressText: {instanceID: 0}
+  - texture_bg: {fileID: 2800000, guid: 5c15f5b2c5c136e45a7880309fde67b3, type: 3}
+  - texture_main: {fileID: 2800000, guid: 42f3c2f7cb99be649a910ba981528186, type: 3}
+  - texture_belo: {fileID: 2800000, guid: d9a8b7caed2520e41992cc09f320839e, type: 3}
+  - texture_kado_lu: {instanceID: 0}
+  - texture_kado_ru: {fileID: 2800000, guid: 0ebe70e5f2160dd469b5a2c24a39e095, type: 3}
+  - texture_kado_ld: {fileID: 2800000, guid: ea8b09d729dc76b40b47c1812ecd99a9, type: 3}
+  - texture_kado_rd: {fileID: 2800000, guid: 62897201846e088408e1bc022784d6b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,7 @@
+ChrModel_Dog	2	-3	225
+ChrModel_House1	-3	-2	135
+ItemModel_Tarai	2	1
+ItemModel_Cat	4	-1
+ItemModel_Wan	2	0
+ItemModel_Yuzu	-4	1
+ItemModel_Negi	-2	-4

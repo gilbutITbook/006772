@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 20
+  m_Name: EffectRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2211cb902457f9c4bb714adfb1944721, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemGetEffect_prefab: {fileID: 100000, guid: 7b8ad6c3fa3927640b3014cd74c81ec3, type: 2}
+  healEffect_prefab: {fileID: 100010, guid: 81166b0ce196a6a4498c9cc9509c15ff, type: 2}
+  candleFireEffect_prefab: {fileID: 100000, guid: db25082e466b5f7439a85fe9fa6d1e0d,
+    type: 2}
+  doorMojiEffect_prefab: {fileID: 100028, guid: bd0cda505173892459ef6309073716e5,
+    type: 2}
+  bossFootSmoke_prefab: {fileID: 100000, guid: ff4171c4794430b4dbd733a800ab301b, type: 2}
+  bossAngryMark_prefab: {fileID: 0}
+  bossSnort_prefab: {fileID: 0}
+  bossChargeAura_prefab: {fileID: 0}
+  effectItePrefab: {fileID: 100000, guid: 651752d6836e2494ba18e97ee3705c18, type: 2}
+  effectHosiPrefab: {fileID: 100000, guid: f721862aa8976234cbb8d3620c67bceb, type: 2}
+  hitEffect_prefab: {fileID: 100000, guid: d3116b4c239457248835773ccdac4f72, type: 2}
+  jinJinEffect_prefab: {fileID: 100000, guid: dde336b75e09dd4478a791bbbd39bfd7, type: 2}
+  atariOugi_prefab: {fileID: 100000, guid: ad7dd229cd21a7e4297ba1c07e7ff16a, type: 2}
+  yuzuExplode_prefab: {fileID: 100014, guid: f0d21aadd1aee134aa0bb88d475d18d9, type: 2}
+  effectSmokeMiddlePrefab: {fileID: 100000, guid: 9861fd87363b77d49913dea7e3eb1e69,
+    type: 2}
+  effectSmokeSmallPrefab: {fileID: 100000, guid: 6ff08dedd0ac78049a75592cd987dfcc,
+    type: 2}
+  effectTearsPrefab: {fileID: 100000, guid: a2dc05936694eb94bbd3ee44230f8a1e, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

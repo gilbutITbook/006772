@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8e3d28c3080933a45b05db09ece2cd2a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deadEffectPrefab: {fileID: 100000, guid: bd943c792514675e464dfc7a8c26d3e0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

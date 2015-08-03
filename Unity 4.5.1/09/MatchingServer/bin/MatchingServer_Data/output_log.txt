@@ -1,0 +1,230 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3750]
+    Renderer: NVIDIA GeForce GT 610 
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1164 at -1920,-84
+Platform assembly: C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\이원휘\Desktop\유니티 네트워크 예제소스\online_game_no_sikumi_samplecode(역자 번역(인코딩깨진것까지 교체)\09\MatchingServer\bin\MatchingServer_Data\Managed\System.dll (this message is harmless)
+Start server called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+CreateThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Thread launched.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server started.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ThreadDispatch:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[TCP]AcceptClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[TCP]Create transport
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[TCP]JoinSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Connect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Connect State:Connect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[TCP]Connected from client. [port:50763]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0:0:0:0:0:0:0:1:0:0:0:3:255:255:255:255:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveMatchingRequest:SearchRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveSearchRoomPacket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Request node:0 Created room num:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0:0:0:0:0:0:0:1:0:0:0:0:255:255:255:255:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveMatchingRequest:CreateRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveCreateRoomRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Request node:0 Created room id:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0:0:0:0:0:0:0:1:0:0:0:3:0:0:0:0:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveMatchingRequest:SearchRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveSearchRoomPacket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Request node:0 Created room num:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Room name[0]:1 [id:0:1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0:0:0:0:0:0:0:1:0:0:0:3:0:0:0:0:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveMatchingRequest:SearchRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveSearchRoomPacket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Request node:0 Created room num:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Room name[0]:1 [id:0:1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+0:0:0:0:0:0:0:1:0:0:0:2:0:0:0:0:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveMatchingRequest:StartSession
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ReceiveStartSessionRequest[roomId:0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Request room id: 0 MemberNum:1 result:Success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+member[0]:172.16.10.134:50765
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+SignalNotification[0] :Disconnect state:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Disconnect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Disconnect State:Disconnect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ServerSignalNotification called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Disconnect State:NetEventState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnEventHandling called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Node:0 type:Disconnect State:Disconnect[Success]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnApplicationQuit called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+StopServer called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Thread end.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+DestroyThread called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

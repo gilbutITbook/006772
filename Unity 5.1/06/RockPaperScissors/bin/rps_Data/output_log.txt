@@ -1,0 +1,92 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.196 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\online_kr\06\RockPaperScissors\bin\rps_Data\Managed\System.dll (this message is harmless)
+StartServer called.!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportTCP connect called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Dispatch thread started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Connection success.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Dispatch thread started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+event handler called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Connected from client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Disconnect recv from client.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 20370122a290309478be596cee913dce
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: anim_All_root_CTL
+    100002: anim_body
+    100004: anim_candy
+    100006: anim_candy 1
+    100008: anim_candy_CTL2
+    100010: anim_hand_L
+    100012: anim_hand_L_CTL1
+    100014: anim_hand_R
+    100016: anim_hand_R_CTL
+    100018: anim_hat
+    100020: anim_hat 1
+    100022: anim_hat_CTL
+    100024: anim_obake
+    100026: anim_pCylinder1
+    100028: anim_pCylinder5
+    100030: anim_pCylinder6
+    100032: anim_pCylinder7
+    100034: anim_pSphere6
+    100036: anim_root_CTL
+    100038: anim_sholder_L
+    100040: anim_sholder_L_CTL
+    100042: anim_sholder_R
+    100044: anim_sholder_R_CTL
+    100046: anim_skl_root
+    100048: anim_tail_a
+    100050: anim_tail_a_CTL
+    100052: anim_tail_b
+    100054: anim_tail_b_CTL
+    100056: //RootNode
+    400000: anim_All_root_CTL
+    400002: anim_body
+    400004: anim_candy
+    400006: anim_candy 1
+    400008: anim_candy_CTL2
+    400010: anim_hand_L
+    400012: anim_hand_L_CTL1
+    400014: anim_hand_R
+    400016: anim_hand_R_CTL
+    400018: anim_hat
+    400020: anim_hat 1
+    400022: anim_hat_CTL
+    400024: anim_obake
+    400026: anim_pCylinder1
+    400028: anim_pCylinder5
+    400030: anim_pCylinder6
+    400032: anim_pCylinder7
+    400034: anim_pSphere6
+    400036: anim_root_CTL
+    400038: anim_sholder_L
+    400040: anim_sholder_L_CTL
+    400042: anim_sholder_R
+    400044: anim_sholder_R_CTL
+    400046: anim_skl_root
+    400048: anim_tail_a
+    400050: anim_tail_a_CTL
+    400052: anim_tail_b
+    400054: anim_tail_b_CTL
+    400056: //RootNode
+    4300000: anim_pCylinder1
+    4300002: anim_pCylinder5
+    4300004: anim_pCylinder7
+    4300006: anim_pCylinder6
+    4300008: anim_pSphere6
+    4300010: anim_body
+    7400000: m002_idle
+    7400002: m001_walk
+    7400004: m003_attack
+    7400006: m005_damage
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: anim_body
+    13700002: anim_pCylinder1
+    13700004: anim_pCylinder5
+    13700006: anim_pCylinder6
+    13700008: anim_pCylinder7
+    13700010: anim_pSphere6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: m001_walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_hat_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL/anim_hand_L_CTL1
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL/anim_candy_CTL2
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL/anim_tail_b_CTL
+        weight: 1
+      - path: anim_obake
+        weight: 1
+      - path: anim_obake/anim_body
+        weight: 1
+      - path: anim_obake/anim_candy
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pCylinder6
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pSphere6
+        weight: 1
+      - path: anim_obake/anim_hat
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder1
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder5
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder7
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_candy 1
+        weight: 1
+      - path: anim_skl_root/anim_hat 1
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_tail_a
+        weight: 1
+      - path: anim_skl_root/anim_tail_a/anim_tail_b
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m002_idle
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_hat_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL/anim_hand_L_CTL1
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL/anim_candy_CTL2
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL/anim_tail_b_CTL
+        weight: 1
+      - path: anim_obake
+        weight: 1
+      - path: anim_obake/anim_body
+        weight: 1
+      - path: anim_obake/anim_candy
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pCylinder6
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pSphere6
+        weight: 1
+      - path: anim_obake/anim_hat
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder1
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder5
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder7
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_candy 1
+        weight: 1
+      - path: anim_skl_root/anim_hat 1
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_tail_a
+        weight: 1
+      - path: anim_skl_root/anim_tail_a/anim_tail_b
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m003_attack
+      takeName: Take 001
+      firstFrame: 67
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .304002613
+        functionName: PerformFire
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: NotifyFinishedFire
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_hat_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL/anim_hand_L_CTL1
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL/anim_candy_CTL2
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL/anim_tail_b_CTL
+        weight: 1
+      - path: anim_obake
+        weight: 1
+      - path: anim_obake/anim_body
+        weight: 1
+      - path: anim_obake/anim_candy
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pCylinder6
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pSphere6
+        weight: 1
+      - path: anim_obake/anim_hat
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder1
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder5
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder7
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_candy 1
+        weight: 1
+      - path: anim_skl_root/anim_hat 1
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_tail_a
+        weight: 1
+      - path: anim_skl_root/anim_tail_a/anim_tail_b
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: m005_damage
+      takeName: Take 001
+      firstFrame: 97
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_All_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_hat_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_L_CTL/anim_hand_L_CTL1
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_sholder_R_CTL/anim_hand_R_CTL/anim_candy_CTL2
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL
+        weight: 1
+      - path: anim_All_root_CTL/anim_root_CTL/anim_tail_a_CTL/anim_tail_b_CTL
+        weight: 1
+      - path: anim_obake
+        weight: 1
+      - path: anim_obake/anim_body
+        weight: 1
+      - path: anim_obake/anim_candy
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pCylinder6
+        weight: 1
+      - path: anim_obake/anim_candy/anim_pSphere6
+        weight: 1
+      - path: anim_obake/anim_hat
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder1
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder5
+        weight: 1
+      - path: anim_obake/anim_hat/anim_pCylinder7
+        weight: 1
+      - path: anim_skl_root
+        weight: 1
+      - path: anim_skl_root/anim_candy 1
+        weight: 1
+      - path: anim_skl_root/anim_hat 1
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_L/anim_hand_L
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R
+        weight: 1
+      - path: anim_skl_root/anim_sholder_R/anim_hand_R
+        weight: 1
+      - path: anim_skl_root/anim_tail_a
+        weight: 1
+      - path: anim_skl_root/anim_tail_a/anim_tail_b
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: anim_All_root_CTL
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

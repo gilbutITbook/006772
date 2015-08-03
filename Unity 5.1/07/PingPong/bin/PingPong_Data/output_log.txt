@@ -1,0 +1,125 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5330]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\online_kr\07\PingPong\bin\PingPong_Data\Managed\System.dll (this message is harmless)
+IOException: Sharing violation on path D:\online_kr\07\PingPong\bin\PingPong_Data\DebugScript.log
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00000] in <filename unknown>:0 
+  at DebugScript.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Start server called[Port:50765]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportUdp::Connect called.[Port:50766]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportUdp::Connect success.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[NetworkController] Connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Start server called[Port:50766]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportUdp::Connect called.[Port:50765]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportUdp::Connect success.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[NetworkController] Connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[NetworkController] Disconnected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportTcp::Disconnect called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[NetworkController] Disconnected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+TransportTcp::Disconnect called.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Server stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
